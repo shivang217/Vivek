@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  
+<map>
+    
+<title>Variables</title>
+  
+<keydef keys="First">
+<topicmeta>
+<keywords>
+<keyword>This is first Shivang</keyword></keywords></topicmeta></keydef>
+<keydef keys="RH">
+<topicmeta>
+<keywords>
+<keyword>This is FrameMaker 2020</keyword></keywords></topicmeta></keydef>
+<keydef keys="Test">
+<topicmeta>
+<keywords>
+<keyword>This is testThis is testThis is testThis is testThis is testThis is testThis is testThis is testThis is testThis is testThis is testThis is testThis is testThis is testThis is testThis is testThis is testThis is testThis is testThis is testThis is testThis is testThis is testThis is testThis is testThis is testThis is testThis is testThis is testThis is testThis is testThis is testThis is testThis is testThis is testThis is test</keyword></keywords></topicmeta></keydef></map>

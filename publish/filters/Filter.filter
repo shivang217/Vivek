@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>    
+<filter displayname="Select the options" multiple="yes" withingroup="yes">    
+<group displayname="global" name="global"></group>
+<group displayname="Others" name="Others">
+<condition name="Others" value="Advanced" displayname="Advanced" default="no"></condition>
+<condition name="Others" value="Beginner" displayname="Beginner" default="no"></condition>
+<condition name="Others" value="Intermediate" displayname="Intermediate" default="no"></condition></group></filter>

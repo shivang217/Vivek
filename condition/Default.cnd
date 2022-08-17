@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<val>
+  <prop att="Others" val="Advanced" backcolor="#C0C0C0" color="#000000"></prop>
+  <prop att="Others" val="Beginner" backcolor="#BDACAC" color="#000000"></prop>
+  <prop att="Others" val="Intermediate" backcolor="#000080" color="#000000"></prop>
+  <prop att="Platform" val="Online" backcolor="#00ff00"></prop>
+  <prop att="Platform" val="Print" backcolor="#ff0000"></prop>
+</val>
